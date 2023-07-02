@@ -1,0 +1,28 @@
+.img-logo {
+  width: 65px;
+}
+.img-person {
+  margin-top: 100%;
+}
+.header h3 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 17px;
+}
+.header p {
+  font-size: 15px;
+}
+
+.header .col-4 {
+  padding: 0px;
+}
+.header .col-8 {
+  padding-left: 0px;
+}
+.icon-round {
+  width: 60px;
+  height: 60px;
+  border-radius: 100px;
+  display: block;
+}
+
